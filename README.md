@@ -1,16 +1,15 @@
 # 👋 Hi, I'm [Your Name]
 
 Welcome to my GitHub profile! 🚀  
-I’m a **frontend developer** passionate about building clean, responsive, and user-friendly web applications.  
-Currently exploring **React, Node.js, and full-stack development** while working on personal and collaborative projects.  
+I’m a **frontend developer** with growing knowledge in **backend development**, currently working my way toward becoming a **full-stack developer**.  
 
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** React, Vite, JavaScript (ES6+), HTML5, CSS3, SCSS, TailWind CSS 
-- **Backend:** Node.js, Express, PHP  
-- **Databases:** MySQL, MongoDB (learning)  
-- **Tools & Platforms:** Git, GitHub, XAMPP, Postman, VS Code  
+- **Frontend:** React, Vite, JavaScript (ES6+), HTML5, CSS3, SCSS  
+- **Backend (Learning):** Node.js, Express, PHP  
+- **Databases:** MySQL (using), MongoDB (exploring)  
+- **Tools & Platforms:** Git, GitHub, XAMPP, Postman, VS Code 
 
 ---
 
@@ -20,10 +19,17 @@ Currently exploring **React, Node.js, and full-stack development** while working
 
 ---
 
-## 🌱 What I'm Working On
-- 🔨 Improving my **React + Node.js** project structure  
-- 📱 Making my dashboards **mobile-responsive** with SCSS  
-- 🏗️ Exploring **API integration** and performance optimization  
+## 🌱 Currently Learning
+- ⚡ Backend development with **Node.js + Express**  
+- 🔗 Building REST APIs and connecting them with frontend  
+- 📱 Improving responsiveness and performance in React projects   
+
+---
+
+## 🎯 Goals
+- Become a **Full-Stack Developer**  
+- Build and deploy **end-to-end web applications**  
+- Contribute to **open-source projects**
 
 ---
 

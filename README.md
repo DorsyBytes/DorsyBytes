@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Joshua!
 
 Welcome to my GitHub profile! 🚀  
 I’m a **frontend developer** with growing knowledge in **backend development**, currently working my way toward becoming a **full-stack developer**.  

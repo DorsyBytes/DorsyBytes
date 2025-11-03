@@ -40,4 +40,4 @@ I’m a **frontend developer** with growing knowledge in **backend development**
 
 ---
 
-⭐️ From [YOUR NAME](https://github.com/DorsyBytes)
+⭐️ From [Git](https://github.com/DorsyBytes)

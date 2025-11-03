@@ -35,7 +35,7 @@ I’m a **frontend developer** with growing knowledge in **backend development**
 
 ## 🤝 Let's Connect
 - 💼 [LinkedIn] [https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/joshua-adora-323568323)  
-- 🌐 [Portfolio Website] [https://your-portfolio.com](https://dorsybytes.github.io/)  
+- 🌐 [Portfolio Website] [https://dorsybytes.github.io/]  
 - ✉️ Reach me at: **adorajoshua112@gmail.com**  
 
 ---
